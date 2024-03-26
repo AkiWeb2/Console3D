@@ -12,5 +12,5 @@ Skills: С#/C++/SQL
 
 
 
-
+Скриншот проекта на С#
 ![Игра в консоли с псевдо 3D ](https://github.com/AkiWeb2/Console3D/assets/153662065/057fa7b4-fb11-4b5d-ac43-0457654182a4)
