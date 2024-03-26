@@ -1,0 +1,15 @@
+F:\программирование\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+F:\программирование\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+F:\программирование\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+F:\программирование\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+F:\программирование\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.SuggestedBindingRedirects.cache
+F:\программирование\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+F:\программирование\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+F:\программирование\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\AkiWeb\Documents\Программирование\C#\ConsoleGame-main\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
